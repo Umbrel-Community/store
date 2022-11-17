@@ -4,6 +4,7 @@ category: Networking
 name: Snapdrop
 version: "89"
 tagline: Opensource Apple's Airdrop Alternative
+icon: https://github.com/RobinLinus/snapdrop/raw/master/client/images/logo_blue_512x512.png
 description: >-
   Snapdrop - local file sharing in your browser. Inspired by Apple's Airdrop.
   Snapdrop is built with the following awesome technologies :
