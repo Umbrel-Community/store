@@ -2,6 +2,7 @@ manifestVersion: 1
 id: umbrelscape-nextcloud
 category: Files
 name: Nextcloud
+icon: https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-nextcloud/icon.svg
 version: "25.0.1"
 tagline: Productivity platform that keeps you in control
 description: >-
@@ -33,9 +34,9 @@ repo: https://github.com/nextcloud/server
 support: https://help.nextcloud.com/categories
 port: 8081
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-nextcloud/1.jpg
+  - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-nextcloud/2.jpg
+  - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-nextcloud/3.jpg
 path: ""
 defaultUsername: umbrel
 deterministicPassword: true
