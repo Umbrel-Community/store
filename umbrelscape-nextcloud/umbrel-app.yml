@@ -41,4 +41,4 @@ defaultUsername: umbrel
 deterministicPassword: true
 torOnly: false
 submitter: UmbrelScape
-submission: 
+submission: https://github.com/UmbrelScape/store/commit/1b5f686d92a7c6cb1a70b78908a60b7f9fa43f49
