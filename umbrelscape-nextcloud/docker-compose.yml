@@ -41,6 +41,7 @@ services:
     restart: on-failure
     volumes:
       - ${APP_DATA_DIR}/data/nextcloud:/var/www/html
+      - ${UMBREL_ROOT}/data/storage/downloads:/downloads
     environment:
       - MYSQL_HOST=${APP_US_NEXTCLOUD_DB_IP}
       - REDIS_HOST=${APP_US_NEXTCLOUD_REDIS_IP}
@@ -65,6 +66,7 @@ services:
     restart: on-failure
     volumes:
       - ${APP_DATA_DIR}/data/nextcloud:/var/www/html
+      - ${UMBREL_ROOT}/data/storage/downloads:/downloads
     entrypoint: /cron.sh
     depends_on:
       - db
