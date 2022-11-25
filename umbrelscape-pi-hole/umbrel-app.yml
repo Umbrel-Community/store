@@ -1,5 +1,5 @@
 manifestVersion: 1.1
-id: pi-hole
+id: umbrelscape-pi-hole
 category: Networking
 name: Pi-hole
 icon: https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-pi-hole/icon.svg
