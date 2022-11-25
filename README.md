@@ -35,8 +35,9 @@ sudo ~/umbrel/scripts/repo remove https://github.com/UmbrelScape/store.git
 
 
 ### Apps in the store
+***Warning!: This store installs a separate instance of apps, seperate from the apps provided by the Official umbrel store.***
 * Nextcloud `25.0.1`
-    * **Warning!**: This installs a separate instance of Nextcloud, seperate from the Nextcloud app provided by the Official store.
+* Pi-Hole `5.14.1-hotfix-1`
 
 
 ### Technical Details
