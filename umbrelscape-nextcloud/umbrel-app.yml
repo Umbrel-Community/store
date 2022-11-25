@@ -26,7 +26,7 @@ description: >-
 
   Note: After logging in to Nextcloud please change the password to something secure before sharing the address with anyone.
 releaseNotes: >-
-  - Availabe here : https://nextcloud.com/changelog/#25.0.1
+  - Available here : https://nextcloud.com/changelog/#25.0.1
 developer: Nextcloud GmbH
 website: https://nextcloud.com
 dependencies: []
