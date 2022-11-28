@@ -1,9 +1,9 @@
-manifestVersion: 1
+manifestVersion: 1.1
 id: umbrelscape-nextcloud
 category: Files
 name: Nextcloud
 icon: https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-nextcloud/icon.svg
-version: "25.0.1"
+version: "25.0.1-build-2"
 tagline: Productivity platform that keeps you in control
 description: >-
   Nextcloud puts your data at your fingertips, under your control.
@@ -26,7 +26,7 @@ description: >-
 
   Note: After logging in to Nextcloud please change the password to something secure before sharing the address with anyone.
 releaseNotes: >-
-  - Available here : https://nextcloud.com/changelog/#25.0.1
+  - Increase upload limit to 1TB
 developer: Nextcloud GmbH
 website: https://nextcloud.com
 dependencies: []
