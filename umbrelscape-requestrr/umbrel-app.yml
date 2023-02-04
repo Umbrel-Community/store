@@ -1,0 +1,30 @@
+manifestVersion: 1.1
+id: umbrelscape-requestrr
+category: Media
+name: Requestrr
+icon: https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-requestrr/icon.svg
+version: "2.1.2"
+tagline: Effortless media management through chat.
+description: >-
+  Requestrr is an innovative and intuitive chatbot that simplifies the way you manage your media library. The bot is designed to work with popular media management services like Sonarr, Radarr, and Ombi, and makes it easy to add, remove, or search for movies and TV shows. Instead of navigating through different interfaces and menus, you can now simply chat with Requestrr to get the job done.
+
+  The chatbot is currently available on the Discord platform, but its developers have built it with quick adaptation in mind. This means that new features and platforms can be added easily, making it a versatile and flexible tool for managing your media library. Whether you're a seasoned media enthusiast or a casual viewer, Requestrr is the perfect solution for anyone looking to streamline their media management process.
+
+  With Requestrr, you can enjoy a quick and effortless way to manage your media library, freeing up more time to watch, listen, or read your favorite content. The chatbot provides a simple and intuitive way to keep track of all your media, so you never have to worry about missing an episode or a movie again. Whether you're on the go or at home, Requestrr is always there to help you manage your media library in a chat-based, user-friendly way.
+developer: darkalfx
+website: https://github.com/darkalfx/requestrr
+dependencies: []
+repo: https://github.com/darkalfx/requestrr
+support: https://github.com/darkalfx/requestrr/issues
+port: 4545
+gallery:
+  - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-requestrr/1.jpg
+  - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-requestrr/2.jpg
+  - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-requestrr/3.jpg
+path: ""
+defaultUsername: ""
+torOnly: false
+releaseNotes: >-
+  - Fixed a problem where roles/channels permissions would not work properly.
+submitter: UmbrelScape
+submission: 

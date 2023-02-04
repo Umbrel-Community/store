@@ -1,0 +1,16 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: umbrelscape-requestrr_server_1
+      APP_PORT: 4545
+
+  server:
+    image: darkalfx/requestrr:v2.1.2
+    environment:
+      - PUID=1000
+      - PGID=1000
+    volumes:
+      - ${APP_DATA_DIR}/data/config:/config
+    restart: on-failure
