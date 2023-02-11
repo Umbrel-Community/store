@@ -12,7 +12,7 @@ description: >-
 
   With Requestrr, you can enjoy a quick and effortless way to manage your media library, freeing up more time to watch, listen, or read your favorite content. The chatbot provides a simple and intuitive way to keep track of all your media, so you never have to worry about missing an episode or a movie again. Whether you're on the go or at home, Requestrr is always there to help you manage your media library in a chat-based, user-friendly way.
 developer: darkalfx
-website: https://github.com/darkalfx/requestrr
+website: https://github.com/darkalfx
 dependencies: []
 repo: https://github.com/darkalfx/requestrr
 support: https://github.com/darkalfx/requestrr/issues
@@ -27,4 +27,4 @@ torOnly: false
 releaseNotes: >-
   - Fixed a problem where roles/channels permissions would not work properly.
 submitter: UmbrelScape
-submission: 
+submission: https://github.com/UmbrelScape/store/commit/6537a95959aa145aae8095b7f1e4455bcf8d65dd
