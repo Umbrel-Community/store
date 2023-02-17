@@ -3,7 +3,7 @@ id: umbrelscape-requestrr
 category: Media
 name: Requestrr
 icon: https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-requestrr/icon.svg
-version: "2.1.2"
+version: "2.1.2-hotfix"
 tagline: Effortless media management through chat.
 description: >-
   Requestrr is an innovative and intuitive chatbot that simplifies the way you manage your media library. The bot is designed to work with popular media management services like Sonarr, Radarr, and Ombi, and makes it easy to add, remove, or search for movies and TV shows. Instead of navigating through different interfaces and menus, you can now simply chat with Requestrr to get the job done.
@@ -25,6 +25,6 @@ path: ""
 defaultUsername: ""
 torOnly: false
 releaseNotes: >-
-  - Fixed a problem where roles/channels permissions would not work properly.
+  - Fixes a problem with the mapping of config directory, resulting in config not being saved.
 submitter: UmbrelScape
 submission: https://github.com/UmbrelScape/store/commit/6537a95959aa145aae8095b7f1e4455bcf8d65dd
