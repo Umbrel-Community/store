@@ -1,0 +1,32 @@
+manifestVersion: 1.1
+id: umbrelscape-flaresolverr
+category: Networking
+name: FlareSolverr
+icon: https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-flaresolverr/icon.svg
+version: "3.0.2"
+tagline: Crack the Cloudflare challenge and unlock a world of web data with FlareSolverr.
+description: >-
+  FlareSolverr is an open-source software solution designed to bypass Cloudflare's anti-bot protection and allow users to obtain the real IP address of a website's server. Using FlareSolverr, it's possible to bypass Cloudflare's JavaScript challenges and render a website in a virtual environment, allowing users to execute and interact with the website's JavaScript.
+
+  FlareSolverr works by running a headless browser, such as Chromium or Firefox, and rendering the website in a virtual environment. This allows FlareSolverr to bypass Cloudflare's JavaScript challenges and obtain the real IP address of the website's server, making it a valuable tool for web scraping and other automated tasks that require bypassing Cloudflare protection.
+
+  FlareSolverr can be integrated with Prowlarr to automate web scraping and manage media libraries. By bypassing Cloudflare protection, users can obtain accurate information on their favorite TV shows and movies. It's important to use these tools responsibly and comply with legal regulations related to web scraping and data privacy. The FlareSolverr-Prowlarr integration offers a valuable solution for media enthusiasts and data scientists. It helps keep media libraries up-to-date with the latest content.
+
+developer: FlareSolverr
+website: https://github.com/FlareSolverr
+dependencies: []
+repo: https://github.com/FlareSolverr/FlareSolverr
+support: https://github.com/FlareSolverr/FlareSolverr/issues
+port: 8191
+gallery:
+  - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-flaresolverr/1.jpg
+  - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-flaresolverr/2.jpg
+  - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-flaresolverr/3.jpg
+path: ""
+defaultUsername: ""
+torOnly: false
+releaseNotes: >-
+  - Detect Cloudflare blocked access
+  - Check Chrome / Chromium web browser is installed correctly
+submitter: UmbrelScape
+submission: 
