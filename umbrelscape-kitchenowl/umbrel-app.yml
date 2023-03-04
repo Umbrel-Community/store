@@ -1,0 +1,23 @@
+manifestVersion: 1.1
+id: umbrelscape-kitchenowl
+category: Productivity
+name: KitchenOwl
+icon: https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-kitchenowl/icon.png
+version: "latest"
+tagline: Effortlessly plan and cook with KitchenOwl.
+description: >-
+  KitchenOwl is an all-in-one recipe management and meal planning platform designed to simplify cooking and meal preparation. It offers smart recipe search, recipe scaling, and nutritional information for recipes. KitchenOwl's web-based application is accessible from any device, making it easy to plan meals and access recipes on the go.
+
+  With KitchenOwl, users can easily save and organize their favorite recipes, create meal plans for the week, and generate shopping lists to make grocery shopping a breeze. Whether you're a busy professional, a student, or a busy parent, KitchenOwl can help you simplify meal preparation and make cooking a more enjoyable experience.
+
+developer: TomBursch
+website: https://github.com/TomBursch
+dependencies: []
+repo: https://github.com/TomBursch/kitchenowl
+support: https://github.com/TomBursch/kitchenowl/issues
+port: 5921
+path: ""
+defaultUsername: ""
+torOnly: false
+submitter: UmbrelScape
+submission: 
