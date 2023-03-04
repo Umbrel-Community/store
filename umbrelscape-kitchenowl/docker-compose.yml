@@ -9,6 +9,8 @@ services:
         image: tombursch/kitchenowl-web:latest
         environment:
         - BACK_URL=umbrelscape-kitchenowl_back_1
+        ports: 
+        - 80:5921
         depends_on:
         - back
     back:
