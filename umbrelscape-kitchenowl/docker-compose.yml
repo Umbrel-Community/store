@@ -9,7 +9,7 @@ services:
     front:
         image: tombursch/kitchenowl-web:latest
         ports: 
-            - "5921:80"
+            - "5922:80"
         restart: on-failure
         depends_on:
         - back
