@@ -1,11 +1,5 @@
 version: "3.7"
 services:
-    app_proxy:
-      environment:
-        APP_HOST: umbrelscape-kitchenowl_front_1
-        APP_PORT: 5921
-        PROXY_AUTH_ADD: "false"
-
     front:
         image: tombursch/kitchenowl-web:latest
         ports: 
