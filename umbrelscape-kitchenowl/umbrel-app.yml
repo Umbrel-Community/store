@@ -15,7 +15,7 @@ website: https://github.com/TomBursch
 dependencies: []
 repo: https://github.com/TomBursch/kitchenowl
 support: https://github.com/TomBursch/kitchenowl/issues
-port: 5921
+port: 5922
 gallery:
   - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-kitchenowl/1.jpg
   - https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-kitchenowl/2.jpg
