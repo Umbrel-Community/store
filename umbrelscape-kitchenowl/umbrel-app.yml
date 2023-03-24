@@ -3,7 +3,7 @@ id: umbrelscape-kitchenowl
 category: Productivity
 name: KitchenOwl
 icon: https://github.com/UmbrelScape/app-gallery/raw/main/umbrelscape-kitchenowl/icon.png
-version: "latest"
+version: "latest-v0.3.13"
 tagline: Effortlessly plan and cook with KitchenOwl.
 description: >-
   KitchenOwl is an all-in-one recipe management and meal planning platform designed to simplify cooking and meal preparation. It offers smart recipe search, recipe scaling, and nutritional information for recipes. KitchenOwl's web-based application is accessible from any device, making it easy to plan meals and access recipes on the go.
