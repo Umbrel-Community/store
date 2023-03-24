@@ -9,8 +9,6 @@ services:
     front:
         image: tombursch/kitchenowl-web:latest
         restart: on-failure
-        environment:
-        - BACK_URL=umbrelscape-kitchenowl_back_1
         depends_on:
         - back
 
