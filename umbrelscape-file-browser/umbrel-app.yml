@@ -2,6 +2,7 @@ manifestVersion: 1
 id: umbrelscape-file-browser
 category: Files
 name: File Browser [USC]
+icon: https://github.com/getumbrel/umbrel-app-gallery/raw/main/file-browser/icon.svg
 version: "2.22.4"
 tagline: Browse and manage the files you download on your Umbrel
 description: >-
@@ -21,3 +22,4 @@ path: "/files/"
 deterministicPassword: false
 torOnly: false
 submitter: UmbrelScape
+submission: https://github.com/UmbrelScape/store/commit/1339d75b9efc6f0d6dd449d333d76e142b36de48
